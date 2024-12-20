@@ -482,3 +482,21 @@ Analisis ini memberikan wawasan bahwa kinerja keuangan perusahaan dipengaruhi ol
 
 # BAGIAN B
 Tambahkan data baru, yaitu data kuartal 2 tahun 2024 dan kuartal 3 tahun 2024 (jika sudah ada), dari laporan keuangan masing-masing emiten. Lakukan analisis komparasi kondisi perusahaan (i) tahun 2023 terhadap tahun 2022, dan (ii) tahun 2024 terhadap tahun 2023.
+
+## ROA
+![ROA](image-29.png)
+
+## ROE
+![ROE](image-28.png)
+
+## GPM
+![GPM](image-27.png)
+
+## OPM
+![OPM](image-26.png)
+
+## DR
+![DR](image-25.png)
+
+## CR
+![CR](image-24.png)
